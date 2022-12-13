@@ -3,8 +3,8 @@
 .EXAMPLES
   Useful cmdlets
   
-   Get-Process: 
-   This cmdlet can be used to retrieve information about running processes on the system. For example, you could use the -Name parameter to retrieve information about a specific process by name, or you could use the -ID parameter to retrieve information about a specific process by ID.
+     Get-Process: 
+     This cmdlet can be used to retrieve information about running processes on the system. For example, you could use the -Name parameter to retrieve information about a specific process by name, or you could use the -ID parameter to retrieve information about a specific process by ID.
 
 
   Get-NetTCPConnection: 
